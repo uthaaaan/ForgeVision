@@ -1,7 +1,7 @@
 # ForgeVision
 ### AI-Powered Industrial Defect Detection Using Unsupervised Anomaly Detection
 
-ForgeVision is a computer vision project that detects industrial product defects using deep learning-based anomaly detection. It compares three approaches ” **Convolutional Autoencoder, PaDiM, and PatchCore** â€” using only defect-free images for model training.
+ForgeVision is a computer vision project that detects industrial product defects using deep learning-based anomaly detection. It compares three approaches ” **Convolutional Autoencoder, PaDiM, and PatchCore** ” using only defect-free images for model training.
 
 The system identifies anomalous products at the image level and generates pixel-level anomaly maps to highlight potentially defective regions. A Streamlit application provides an interactive interface for testing images.
 
