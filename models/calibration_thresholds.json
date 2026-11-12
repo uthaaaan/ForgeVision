@@ -1,0 +1,10 @@
+{
+    "category": "bottle",
+    "calibration_samples": 42,
+    "percentile": 95,
+    "thresholds": {
+        "autoencoder": 0.1689028903841972,
+        "padim": 16.541070556640623,
+        "patchcore": 0.7011082530021667
+    }
+}

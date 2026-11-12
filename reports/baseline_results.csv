@@ -1,0 +1,4 @@
+Model,Category,Image AUROC,Pixel AUROC,Average Inference (ms),Normal Mean Error,Defective Mean Error,Best Validation Loss,Best Epoch
+Convolutional Autoencoder,bottle,0.8905,0.7224,31.34,0.00044870,0.00056465,,
+PaDiM,bottle,0.9929,0.9819,32.72,166.006744,1253.460815,,
+PatchCore,bottle,1.0000,0.9813,8.28,0.606680,0.931689,,
