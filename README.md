@@ -633,6 +633,8 @@ Potential improvements for future development include:
 
 **Mehedi Hasan**
 
+- Electrical and Electronic Engineering
+- Bangladesh University of Engineering and Technology
 - GitHub: https://github.com/uthaaaan
 - Email: mehedihasanrtl23@gmail.com
 
